@@ -20,4 +20,4 @@
 
 ## You can try the game here:
 
-- 
+- https://dlxzeus777.github.io/tenzies-game-react/
